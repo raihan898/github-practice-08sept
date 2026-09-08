@@ -1,0 +1,6 @@
+SQL
+Python
+Azure
+GCP
+Git
+GitHub
